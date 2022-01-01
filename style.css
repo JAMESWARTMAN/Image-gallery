@@ -60,6 +60,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+/*  */
 
 .panel > *:first-child {
 transform: translateY(-100%);
